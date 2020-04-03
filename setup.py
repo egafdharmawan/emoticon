@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name='emoticon',
-    version='1.0.4',
+    version='1.0.5',
     description='python package to transform any emoticon to text or its meaning',
     long_description=readme(),
     long_description_content_type='text/markdown',

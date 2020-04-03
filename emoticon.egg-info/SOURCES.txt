@@ -1,0 +1,8 @@
+README.md
+setup.py
+emoticon/emoticon.py
+emoticon.egg-info/PKG-INFO
+emoticon.egg-info/SOURCES.txt
+emoticon.egg-info/dependency_links.txt
+emoticon.egg-info/requires.txt
+emoticon.egg-info/top_level.txt
